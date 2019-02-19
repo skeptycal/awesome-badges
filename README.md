@@ -14,7 +14,7 @@ Please add any new and interesting finds!
 
 <tr>
 
-<td>![backend](https://img.shields.io/badge/status-looking for a job-blue.svg?style=flat-square)</td>
+<td>![backend]("https://img.shields.io/badge/status-looking for a job-blue.svg?style=flat-square")</td>
 
 <td>![backend](https://img.shields.io/badge/back--end-Python%2C%20Flask%2C%20C%23%2C%20C%2FC%2B%2B%2C%20PHP-orange.svg?style=flat-square)</td>
 eeeeeeeeee
