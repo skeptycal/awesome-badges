@@ -81,4 +81,4 @@ Please add any new and interesting finds!
 
 # Other interesting styles
 
-![](https://raw.githubusercontent.com/tonsky/FiraCode/master/fira_code_patreon.png)
+
