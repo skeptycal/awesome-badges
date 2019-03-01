@@ -38,6 +38,8 @@ Please add any new and interesting finds!
 
 <img src="https://img.shields.io/badge/VCS-SVN%2C%20GIT-red.svg?style=flat-square">
 
+<img src="https://camo.githubusercontent.com/b391800d353aa7a7a3d489a0943ba465644d6d95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737570706f72745f75732d6f6e5f5374656164792d6666373236342e737667" alt="Support us on Steady" data-canonical-src="https://img.shields.io/badge/support_us-on_Steady-ff7264.svg" style="max-width:100%;">
+
 [![Gitter](https://badges.gitter.im/the-algorithms/website.svg)](https://gitter.im/the-algorithms/website?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 
